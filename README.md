@@ -1,2 +1,2 @@
-# Movimenta-oPe-asXadres-novato-
-Trabalho de movimentação de 3 peças de xadres (Nível novato)
+# Movimenta-oPe-asXadrez-novato-
+Trabalho de movimentação de 3 peças de xadrez (Nível novato)
